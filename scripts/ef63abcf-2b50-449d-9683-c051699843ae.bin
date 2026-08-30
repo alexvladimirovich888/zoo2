@@ -1,0 +1,8 @@
+
+              (function(e){
+                  var el = document.createElement('script');
+                  el.setAttribute('data-account', 'BTmWfC6Rtf');
+                  el.setAttribute('src', 'https://cdn.userway.org/widget.js');
+                  document.body.appendChild(el);
+                })();
+              

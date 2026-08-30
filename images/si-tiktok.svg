@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_3434" data-name="Group 3434" transform="translate(-680 -2817)">
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(680 2817)" fill="#fff" stroke="#213823" stroke-width="1">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="19.5" fill="none"/>
+    </g>
+    <path id="tiktok" d="M15.267,4.277c-.138-.071-.267-.146-.4-.229h0a5.555,5.555,0,0,1-1.017-.859A4.756,4.756,0,0,1,12.708.838h0A2.926,2.926,0,0,1,12.666,0H9.21V8.044l-.005,0v5.634A2.871,2.871,0,1,1,7.189,10.9V7.408a6.325,6.325,0,1,0,5.475,6.28v-.294h0V6.687c.042.025.6.392.6.392a8.011,8.011,0,0,0,2.06.846,11.924,11.924,0,0,0,2.114.288V4.8A4.506,4.506,0,0,1,15.267,4.277Z" transform="translate(691 2827)" fill="#244027"/>
+  </g>
+</svg>

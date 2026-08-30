@@ -1,0 +1,1 @@
+addEventListener("load", (event) => {document.body.classList.remove("nitro-nojs");});

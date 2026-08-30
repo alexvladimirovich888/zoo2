@@ -1,0 +1,10 @@
+
+        let speakAjax = [],
+          scriptQueue = [''];
+
+        document.addEventListener('DOMContentLoaded',e => {
+          scriptQueue.forEach(asset => {
+            import('https://cincinnatizoo.org/wp-content/themes/source/js/min/'+asset+'.js').then(mod => mod.default.init()).catch(err => {});
+          });
+        });
+      
